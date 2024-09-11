@@ -57,12 +57,9 @@ Defines two float variables, `x` and `y`, where `x = 10` and `y = 4`.
     ```
 
 > [!NOTE]
+> We can't do any Arithmatic operation on diffrent DataType like -
 
-> We can't do any Arithmatic operation on diffrent DataType like - 
 ```c
 int x = 10, y = 4;
 printf("%f", x / y);
 ```
-
-> [ !NOTE]  
-> Highlights information that users should take into account, even when skimming.
