@@ -120,7 +120,7 @@ Linux provides several commands for shutting down, rebooting, or halting the sys
     - `r`: Reboot the stytem
   - Time
     - `now`: Shutdown/Reboot Immediatly
-    - `+5`:
+    - `+5`: To reboot in 5 miniutes
 
 | Command    | Action               | Description                                         |
 |------------|----------------------|-----------------------------------------------------|
