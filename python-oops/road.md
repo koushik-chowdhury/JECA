@@ -1,0 +1,9 @@
+- Basic class and object
+- class method and self
+- inheritence
+- encapsulation
+- class variables
+- static method
+- property decorators
+- class inheritence and isinstance() function
+- Multiple inheritence
